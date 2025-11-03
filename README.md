@@ -45,8 +45,8 @@ Software Engineer with 7+ years of experience building scalable web applications
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=sandofvega&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandofvega&theme=dark&hide_border=true)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=sandofvega&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
