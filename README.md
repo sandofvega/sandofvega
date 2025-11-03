@@ -50,8 +50,8 @@ Software Engineer with 7+ years of experience building scalable web applications
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![Website](https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://yasinarafat.dev/)
+[![Website](https://img.shields.io/badge/-website-3423A6?style=for-the-badge&&logo=Google-Chrome&logoColor=white)](https://yasinarafat.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandofvega/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9111020/yasin-arafat?tab=profile)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sandofvega)
-[![Email](https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:adityakanoiofficial@gmail.com)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakanoiofficial@gmail.com)
