@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sandofvega/sandofvega/main/avatar.png" alt="Avatar" width="200">
-</p>
-
 ## Hi, I'm Yasin 👋
 
 Software Engineer with 7+ years of experience building scalable web applications and APIs. Skilled in Laravel, Node.js, React, Vue, Docker, AWS, and CI/CD. Experienced across healthcare, fintech, travel, and multimedia industries. Focused on driving team success, improving efficiency, and shipping high-quality software to production.
